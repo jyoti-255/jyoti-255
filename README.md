@@ -1,3 +1,4 @@
+![logo](https://github.com/jyoti-255/jyoti-255/blob/main/git%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Jyoti Jha</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
